@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Turstein
-- 👀 I’m interested in DNA sequence analysis
-- 🌱 I’m currently learning NGS
-- 💞️ I’m looking to collaborate on HPV
+- 👀 I’m interested in DNA sequence analysis, NGS, HPV and Rotavirus A
+- 🌱 
+- 💞️ 
 - 📫 
 
 <!---
